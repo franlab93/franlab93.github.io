@@ -4,20 +4,6 @@
     <title>Artículos on Francisco Labate</title>
     <link>/post/</link>
     <description>Recent content in Artículos on Francisco Labate</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Jun 2021 22:40:27 -0300</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Prueba</title>
-      <link>/post/prueba/</link>
-      <pubDate>Sun, 27 Jun 2021 22:40:27 -0300</pubDate>
-      
-      <guid>/post/prueba/</guid>
-      <description>Intro Con esto puedo directamente poner sobre cualquier tema que tenga relación yo.
-$$\lambda = \frac{\beta + 1}{\pi}$$
- O poner las citas también acá 1
-Si acá sigo escribiendo sobre alguna otra cosa que no sé qué onda no? Y si agrego un poco de código para ver cómo se ve:
-import numpy as np print(np.pi) Y de paso pongo acá [num for num in range(5)] una list comprehension inline</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
